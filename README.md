@@ -2,8 +2,6 @@
 
 ## Tidal Connector
 
-
-
 ## Prerequisites
 
 * Python 3.6 or higher, with [pip](https://pip.pypa.io/en/stable/)
