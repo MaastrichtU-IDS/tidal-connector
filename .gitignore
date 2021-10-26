@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Avoiding data folder
+sample-data/triplifier_data
